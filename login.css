@@ -1,0 +1,17 @@
+.button{
+    position: absolute;
+    top: 60%;
+    left: 49%;
+    transform: translate(-50%,-50%);
+.btn{
+    border: 1px solid #fffffff8;
+    padding: 10px 30px;
+    color: #fffffff8;
+    text-decoration: none;
+ }
+ .btn:hover{
+    background-color: #fffffff8;
+    color: #000;
+    transition: 0.8s ease;
+ }
+    
